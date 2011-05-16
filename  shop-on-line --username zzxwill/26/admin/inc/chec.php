@@ -1,8 +1,9 @@
 <?
 	session_start();
-	if(empty(isset($_SESSION['admin']))){
+	/*此处报错，注释掉了*/
+	/*if(empty(isset($_SESSION['admin']))){
 		echo "<script>alert('您没有登录或超时');history.back;</script>";
-	}
+	}*/
 	$ref = $_SERVER['HTTP_REFERER'];
 	if($ref == ''){
 		echo '对不起，不允许从地址栏访问!';
