@@ -3,7 +3,7 @@
 define('BASE_PATH',$_SERVER['DOCUMENT_ROOT']);
 /*  定义Smarty目录的绝地你路径  */
 //define('SMARTY_PATH','\tm\Instances\26\admin\Smarty\\');
-define('SMARTY_PATH','\\26\Smarty\\');
+define('SMARTY_PATH','\\26\admin\Smarty\\');
 /*  加载Smarty类库文件    */
 require BASE_PATH.SMARTY_PATH.'Smarty.class.php';
 /*  实例化一个Smarty对象  */
@@ -15,7 +15,7 @@ $smarty->config_dir = BASE_PATH.SMARTY_PATH.'configs/';
 $smarty->cache_dir = BASE_PATH.SMARTY_PATH.'cache/';
 
 /*  调试控制台  */
-//$smarty->debugging = true;
+$smarty->debugging = true;
 /*  定义定界符  */
 //$smarty->left_delimiter = '<{';
 //$smarty->right_delimiter = '}>';

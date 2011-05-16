@@ -2,7 +2,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
 <link rel="stytlesheet" href="css/style.css" />
-<title>明日购物商城后台管理系统</title>
+<title>网上书店后台管理系统</title>
 </head>
 <frameset rows="113,*,100" cols="1004" frameborder="no" border="1" framespacing="0">
   <frame src="top.php" name="topFrame" scrolling="No" noresize="noresize" id="topFrame" title="topFrame" />
