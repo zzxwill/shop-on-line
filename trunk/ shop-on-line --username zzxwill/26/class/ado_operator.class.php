@@ -5,10 +5,10 @@ include_once 'adodb5/adodb.inc.php';
 class ado_operator{
 	/*	连接数据信息	*/
 	private $Database = 'mysql'; 			//默认数据库驱动
-	private $Host = 'localhost';			//服务器地址
+	private $Host = '10.5.110.251';			//服务器地址
 	private $Dataname = 'db_shop';			//数据库名称
 	private $User = 'root';					//用户名
-	private $Pwd = 'root';					//密码
+	private $Pwd = '';					//密码
 	/*	操作数据库	*/
 	private $conn = '';						//连接数据库
 	private $rst = '';						//查询结果集
