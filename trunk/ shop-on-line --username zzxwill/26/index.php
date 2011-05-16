@@ -6,7 +6,7 @@ include_once 'inc/char.php';
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312" />
 <link rel="stylesheet" href="css/style.css" />
-<title>明日购物商城</title>
+<title>网上书店</title>
 <link rel="stylesheet" href="css/table.css" />
 </head>
 <body>
