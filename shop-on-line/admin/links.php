@@ -1,0 +1,6 @@
+<?php
+	include_once 'config.php';
+	
+	$smarty->assign('title','Ìí¼ÓÁ´½Ó');
+	$smarty->display('links.tpl');
+?>
