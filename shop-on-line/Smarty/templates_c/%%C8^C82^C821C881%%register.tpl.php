@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.19, created on 2008-05-20 09:41:48
+<?php /* Smarty version 2.6.19, created on 2011-05-25 11:34:46
          compiled from register.tpl */ ?>
 <title><?php echo $this->_tpl_vars['title']; ?>
 </title>
