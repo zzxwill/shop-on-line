@@ -3,9 +3,12 @@ timer = window.setInterval("showDate()",500);
 function showDate(){
 	var obj,date;
 	obj = new Date();
+	/*年*/
 	date = obj.getYear() + "-";
-	date += obj.getMonth() + "-";
-	date += obj.getDay() + " ";
+	/*月：返回值是 0（一月） 到 11（十二月） 之间的一个整数*/
+	date += (obj.getMonth()+1) + "-";
+	/*日*/
+	date += obj.getDate() + " ";
 	date += obj.getHours() + ":";
 	date += obj.getMinutes() + ":";
 	date += obj.getSeconds();
