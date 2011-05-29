@@ -49,7 +49,7 @@ function lg(form){
 function yzm(form){
 	var num1=Math.round(Math.random()*10000000);
 	var num=num1.toString().substr(0,4);
-	document.write("<img name=codeimg width=36 heigh=20 src='yzm.php?num="+num+"'>");
+	document.write("<img name=codeimg width=50 heigh=20 src='yzm.php?num="+num+"'>");
 	form.check2.value=num;
 }
 //Ë¢ÐÂÑéÖ¤Âë
