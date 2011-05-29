@@ -1,5 +1,6 @@
 <?php 
 session_start(); 
+/*Òý½ø×Ö·ûÉèÖÃ*/
 include_once 'inc/char.php';
 ?>
 <html>
