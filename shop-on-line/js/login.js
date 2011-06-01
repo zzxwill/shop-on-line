@@ -61,9 +61,9 @@ function code(form){
 }
 //◊¢≤·
 function reg(){
-window.open("register.php", "_blank", "width=500,height=450",false);	
+window.open("register.php", "_blank", "width=800,height=600",false);	
 }
 //’“ªÿ√‹¬Î
 function found() {
-window.open("found.php","_blank","width=220 height=130",false);	
+window.open("found.php","_blank","width=800 height=600",false);	
 }

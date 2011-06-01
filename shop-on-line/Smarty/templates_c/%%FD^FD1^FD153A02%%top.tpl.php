@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.19, created on 2011-05-25 09:07:39
+<?php /* Smarty version 2.6.19, created on 2011-05-29 03:35:42
          compiled from top.tpl */ ?>
 <link rel="stylesheet" href="css/top.css" />
 <script src="js/top.js"></script>
@@ -19,6 +19,8 @@
     <td width="21" align="center" valign="middle"></td>
     <td width="77" height="32" align="center" valign="middle" background="images/top_20.gif"  class="top"><a href="?page=queryform" class="top"><strong>∂©µ•≤È—Ø</strong></a></td>
     <td width="11" align="center" valign="middle"></td>
-    <td width="169" colspan="3" align="center" valign="middle"><div id="tm"></div></td>
+    <td width="169" colspan="3" align="center" valign="middle">
+   <div id="tm"></div>
+    </td>
 </tr>
 </table>

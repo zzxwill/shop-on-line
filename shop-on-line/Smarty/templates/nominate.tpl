@@ -26,7 +26,11 @@
                 	<td height="19" align="center" valign="middle">会员价：{$item.v_price}&nbsp;元</td>
             </tr>
                 <tr>
-                	<td height="32" align="center" valign="middle"><input id="showinfo" name="showinfo" type="button" value="" class="showinfo" onclick="openshowcommo({$item.id})"/>&nbsp;<input id="buy" name="buy" type="button" value="" class="buy" onclick="return buycommo({$item.id})" /></td>
+                	<td height="32" align="center" valign="middle">
+                		<!-- <input id="showinfo" name="showinfo" type="button" value="" class="showinfo" onclick="openshowcommo({$item.id})"/>&nbsp;-->
+                		<input id="showinfo" name="showinfo" type="image" src="images/look.JPG" value="" class="showinfo" onclick="openshowcommo({$item.id})"/>&nbsp;
+                		<!-- <input id="buy" name="buy" type="button" value="" class="buy" onclick="return buycommo({$item.id})" /></td>-->
+                		<input id="buy" name="buy" type="image" src="images/looks.JPG" value="" class="buy" onclick="return buycommo({$item.id})" /></td>
             </tr>
        	</table>
       </td>

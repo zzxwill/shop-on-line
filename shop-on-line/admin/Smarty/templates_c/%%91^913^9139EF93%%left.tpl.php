@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.19, created on 2009-05-05 07:07:26
+<?php /* Smarty version 2.6.19, created on 2011-05-29 02:59:17
          compiled from left.tpl */ ?>
 <link href="css/left.css" rel="stylesheet" type="text/css" />
 <script language="javascript" src="js/left.js"></script>

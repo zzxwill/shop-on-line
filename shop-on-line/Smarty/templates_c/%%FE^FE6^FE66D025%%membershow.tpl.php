@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.19, created on 2008-04-24 11:39:30
+<?php /* Smarty version 2.6.19, created on 2011-05-30 14:37:01
          compiled from membershow.tpl */ ?>
 <link rel="stylesheet" href="css/member.css" />
 <script language="javascript" src="js/member.js"></script>

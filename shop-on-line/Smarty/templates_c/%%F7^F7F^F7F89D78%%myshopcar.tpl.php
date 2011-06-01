@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.19, created on 2008-05-21 13:03:35
+<?php /* Smarty version 2.6.19, created on 2011-05-29 04:23:41
          compiled from myshopcar.tpl */ ?>
 <link rel="stylesheet" href="css/table.css" />
 <script language="javascript" src="js/createxmlhttp.js"></script>
