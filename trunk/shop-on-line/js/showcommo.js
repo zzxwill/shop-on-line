@@ -1,6 +1,6 @@
 // JavaScript Document
 function openshowcommo(key){
-	open('showcommo.php?id='+key,'_blank','width=560 height=300',false);
+	open('showcommo.php?id='+key,'_blank','width=800 height=600',false);
 }
 function buycommo(key){
 	var url = "chklogin.php?key="+key;

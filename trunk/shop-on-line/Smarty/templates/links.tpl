@@ -1,9 +1,15 @@
+ <!-- 客服服务热线去掉 -->
+  <!-- 
 <table id="__01" width="207" height="73" border="0" cellpadding="0" cellspacing="0">
+ 
   <tr>
     <td height="73" colspan="7" background="images/shop_11.gif">&nbsp;</td>
   </tr>
+   
     
 </table>
+-->
+
 <table width="207" height="211" border="0" cellpadding="0" cellspacing="0" background="images/shop_13.gif" id="__01">
 
   <tr>

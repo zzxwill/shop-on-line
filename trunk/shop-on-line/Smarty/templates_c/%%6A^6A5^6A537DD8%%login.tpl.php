@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.19, created on 2011-05-25 10:13:13
+<?php /* Smarty version 2.6.19, created on 2011-05-29 03:26:49
          compiled from login.tpl */ ?>
 <link rel="stylesheet" type="text/css" href="css/style.css"/>
 <link rel="stylesheet" type="text/css" href="css/login.css"/>
@@ -28,7 +28,10 @@
     <td width="80"><a onclick="javascript:code(login)" style=" cursor:hand">ªª“ª’≈</a></td>
   </tr>
   <tr>
-    <td height="25" colspan="3" align="center"><input id="enter" name="enter" type="submit" value=""></td>
+    <td height="25" colspan="3" align="center">
+      <!-- <input id="enter" name="enter" type="submit" value=""> -->
+      <input id="enter" name="enter" type="image" src="images/login.JPG" value="">
+    </td>
   </tr>
   <tr>
     <td colspan="3" align="center"><a href="#" id="login" onclick="reg()"><img src="images/check.JPG" width="59" height="23" border="0" /></a>&nbsp;<a id="login" href="#" onclick="found()"><img src="images/pass.JPG" width="59" height="23" border="0" /></a><strong></td>

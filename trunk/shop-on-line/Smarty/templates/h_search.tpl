@@ -11,15 +11,15 @@
 		<td height="25" colspan="2" align="center" valign="middle" class="first">高级查询</td>
 	</tr>
 	<tr>
-		<td width="150" height="25" align="right" valign="middle" class="left">产品名称：</td>
+		<td width="150" height="25" align="right" valign="middle" class="left">图书名称：</td>
 	  <td class="right" style=" text-indent:20px;"><input id="name" name="name" type="text" class="txt" /></td>
 	</tr>
 	<tr>
-		<td width="150" height="25" align="right" valign="middle" class="left">产品型号：</td>
+		<td width="150" height="25" align="right" valign="middle" class="left">ISBN：</td>
 	  <td class="right"  style=" text-indent:20px;"><input id="model" name="model" type="text" class="txt" /></td>
 	</tr>
 	<tr>
-		<td width="150" height="25" align="right" valign="middle" class="left">产品类别：</td>
+		<td width="150" height="25" align="right" valign="middle" class="left">图书类别：</td>
 	  <td class="right"  style=" text-indent:20px;"><input id="stype" name="stype" type="text" class="txt" /></td>
 	</tr>
 	<tr>

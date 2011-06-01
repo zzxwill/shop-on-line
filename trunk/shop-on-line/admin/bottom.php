@@ -6,10 +6,19 @@
 </head>
 
 <body>
-<table width="1004" height="160" border="0" align="center" cellpadding="0" cellspacing="0">
-  <tr>
-    <td valign="top"><img src="images/bottom.gif" width="1004" height="80" /></td>
-  </tr>
+<table id="__01" width="856" height="108" border="0" cellpadding="0" cellspacing="0">
+<!-- 
+	<tr>
+		<td colspan="3" width="850" height="45"><img src="images/shop_17.gif" width="856" height="108" /></td>
+	</tr>
+	 -->
+	<tr>
+		<td colspan="3" width="850" height="45" align="center">
+	<dd>技术支持热线：13701280947 服务邮箱：zzxwill@gmail.com</dd>  
+   <dd>北方工业大学Lab1107数据库开发小组（周倩，陈兵辉，周正喜） 版权所有</dd>
+    <dd class="small">Copyright 2011-2012, http://momoyi.info, All Rights Reserved</dd>
+   </td>
+	</tr>
 </table>
 </body>
 </html>

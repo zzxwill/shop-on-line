@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.19, created on 2008-04-19 04:24:36
+<?php /* Smarty version 2.6.19, created on 2011-05-29 05:03:29
          compiled from links.tpl */ ?>
 <link rel="stylesheet" href="css/table.css" />
 <script language="javascript" src="js/links.js"></script>

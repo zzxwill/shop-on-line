@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.19, created on 2011-05-25 09:29:19
+<?php /* Smarty version 2.6.19, created on 2011-05-29 04:22:48
          compiled from nominate.tpl */ ?>
 <link href="css/nominate.css" rel="stylesheet" type="text/css" />
 <link href="css/links.css" rel="stylesheet" type="text/css" />
@@ -35,8 +35,14 @@
 &nbsp;Ԫ</td>
             </tr>
                 <tr>
-                	<td height="32" align="center" valign="middle"><input id="showinfo" name="showinfo" type="button" value="" class="showinfo" onclick="openshowcommo(<?php echo $this->_tpl_vars['item']['id']; ?>
-)"/>&nbsp;<input id="buy" name="buy" type="button" value="" class="buy" onclick="return buycommo(<?php echo $this->_tpl_vars['item']['id']; ?>
+                	<td height="32" align="center" valign="middle">
+                		<!-- <input id="showinfo" name="showinfo" type="button" value="" class="showinfo" onclick="openshowcommo(<?php echo $this->_tpl_vars['item']['id']; ?>
+)"/>&nbsp;-->
+                		<input id="showinfo" name="showinfo" type="image" src="images/look.JPG" value="" class="showinfo" onclick="openshowcommo(<?php echo $this->_tpl_vars['item']['id']; ?>
+)"/>&nbsp;
+                		<!-- <input id="buy" name="buy" type="button" value="" class="buy" onclick="return buycommo(<?php echo $this->_tpl_vars['item']['id']; ?>
+)" /></td>-->
+                		<input id="buy" name="buy" type="image" src="images/looks.JPG" value="" class="buy" onclick="return buycommo(<?php echo $this->_tpl_vars['item']['id']; ?>
 )" /></td>
             </tr>
        	</table>

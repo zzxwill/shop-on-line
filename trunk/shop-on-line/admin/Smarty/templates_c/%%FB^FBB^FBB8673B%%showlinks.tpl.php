@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.19, created on 2008-04-19 05:29:21
+<?php /* Smarty version 2.6.19, created on 2011-05-29 05:03:25
          compiled from showlinks.tpl */ ?>
 <title><?php echo $this->_tpl_vars['title']; ?>
 </title>
