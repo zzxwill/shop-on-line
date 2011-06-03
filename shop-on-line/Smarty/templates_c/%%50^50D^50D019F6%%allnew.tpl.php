@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.19, created on 2011-05-25 11:30:21
+<?php /* Smarty version 2.6.19, created on 2011-06-01 11:01:31
          compiled from allnew.tpl */ ?>
 <title><?php echo $this->_tpl_vars['title']; ?>
 </title>
@@ -18,17 +18,17 @@
             <td width="145" rowspan="5" align="center" valign="middle"><img src="<?php echo $this->_tpl_vars['item']['pics']; ?>
 " width="90" height="100" alt="<?php echo $this->_tpl_vars['item']['name']; ?>
 " style="border: 1px solid #f0f0f0;" /></td>
-            <td height="35">商品名称：<?php echo $this->_tpl_vars['item']['name']; ?>
+            <td height="35">图书名称：<?php echo $this->_tpl_vars['item']['name']; ?>
 </td>
-            <td width="156" height="35">商品类别：<?php echo $this->_tpl_vars['item']['class']; ?>
+            <td width="156" height="35">图书类别：<?php echo $this->_tpl_vars['item']['class']; ?>
 </td>
-            <td width="157">商品型号：<?php echo $this->_tpl_vars['item']['model']; ?>
+            <td width="157">ISBN：<?php echo $this->_tpl_vars['item']['model']; ?>
 </td>
           </tr>
           <tr>
-            <td height="23">商品品牌：<?php echo $this->_tpl_vars['item']['brand']; ?>
+            <td height="23">语言：<?php echo $this->_tpl_vars['item']['brand']; ?>
 </td>
-            <td height="23" colspan="2">商品产地：<?php echo $this->_tpl_vars['item']['area']; ?>
+            <td height="23" colspan="2">出版社：<?php echo $this->_tpl_vars['item']['area']; ?>
 </td>
           </tr>
           <tr>
@@ -46,10 +46,10 @@
           <tr>
             <td height="30">会员价格：<font color="#FF0000"><?php echo $this->_tpl_vars['item']['v_price']; ?>
 &nbsp;元</font></td>
-            <td height="30" colspan="2" align="center" valign="middle"><input id="allshow" name="allshow" type="button" value="" class="showinfo" onclick="openshowcommo(<?php echo $this->_tpl_vars['item']['id']; ?>
+            <td height="30" colspan="2" align="center" valign="middle"><input id="allshow" name="allshow" type="image" src="images/look.JPG" value="" class="showinfo" onclick="openshowcommo(<?php echo $this->_tpl_vars['item']['id']; ?>
 )"  />
               &nbsp;
-              <input id="buy" name="buy" type="button" value="" class="buy" onclick="return buycommo(<?php echo $this->_tpl_vars['item']['id']; ?>
+              <input id="buy" name="buy" type="image" src="images/looks.JPG" value="" class="buy" onclick="return buycommo(<?php echo $this->_tpl_vars['item']['id']; ?>
 )" /></td>
           </tr>
         </table>

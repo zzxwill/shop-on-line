@@ -6,7 +6,7 @@
 	$rst = $conn->SelectLimit($sql,$num);
 	$nomarr = $rst->GetArray();
 	$smarty->assign('nomarr',$nomarr);
-	$smarty->assign('title','推荐商品');
+	$smarty->assign('title','推荐书籍');
 	$smarty->assign('total',$rst->RecordCount());
 	$smarty->display('allnom.tpl');
 ?>

@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.19, created on 2009-05-05 05:43:45
+<?php /* Smarty version 2.6.19, created on 2011-06-02 04:21:50
          compiled from forminfo.tpl */ ?>
 <title><?php echo $this->_tpl_vars['title']; ?>
 </title>
