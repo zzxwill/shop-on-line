@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.19, created on 2008-04-27 05:35:39
+<?php /* Smarty version 2.6.19, created on 2011-06-02 02:49:59
          compiled from member.tpl */ ?>
 <script language="javascript" src="js/createxmlhttp.js"></script>
 <script language="javascript" src="js/member.js"></script>

@@ -1,6 +1,6 @@
 <?php 
 session_start(); 
-/*引进字符设置*/
+/*char.php内容为：header("Content-Type:text/html;charset=gb2312");是为了设置字符编码*/
 include_once 'inc/char.php';
 ?>
 <html>

@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.19, created on 2011-05-29 03:35:42
+<?php /* Smarty version 2.6.19, created on 2011-06-02 02:15:16
          compiled from top.tpl */ ?>
 <link rel="stylesheet" href="css/top.css" />
 <script src="js/top.js"></script>
@@ -11,11 +11,11 @@
     <td width="63" align="right" class="top"><a href="<?php echo $this->_tpl_vars['index']; ?>
 " class="top"><strong>首页</strong></a></td>
     <td width="31" class="top"></td>
-    <td width="68" height="32" align="center" valign="middle" background="images/top_20.gif" class="top"><a href="?page=new" class="top"><strong>最新商品</strong></a></td>
+    <td width="68" height="32" align="center" valign="middle" background="images/top_20.gif" class="top"><a href="?page=new" class="top"><strong>最新图书</strong></a></td>
 	<td width="23" align="center" valign="middle" class="top"></td>
-	<td width="67" height="32" align="center" valign="middle" background="images/top_20.gif" class="top"><a href="?page=nom" class="top"><strong>推荐商品</strong></a></td>
+	<td width="67" height="32" align="center" valign="middle" background="images/top_20.gif" class="top"><a href="?page=nom" class="top"><strong>推荐图书</strong></a></td>
     <td width="24" align="center" valign="middle" class="top"></td>
-    <td width="68" height="32" align="center" valign="middle" background="images/top_20.gif"  class="top"><a href="?page=hot" class="top"><strong>热门商品</strong></a></td>
+    <td width="68" height="32" align="center" valign="middle" background="images/top_20.gif"  class="top"><a href="?page=hot" class="top"><strong>热门图书</strong></a></td>
     <td width="21" align="center" valign="middle"></td>
     <td width="77" height="32" align="center" valign="middle" background="images/top_20.gif"  class="top"><a href="?page=queryform" class="top"><strong>订单查询</strong></a></td>
     <td width="11" align="center" valign="middle"></td>

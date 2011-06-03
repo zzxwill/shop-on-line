@@ -1,4 +1,4 @@
-<?php /* Smarty version 2.6.19, created on 2009-05-05 02:33:56
+<?php /* Smarty version 2.6.19, created on 2011-06-02 04:17:47
          compiled from settle.tpl */ ?>
 <link rel="stylesheet" href="css/table.css" />
 <script language="javascript" src="js/settle.js"></script>
